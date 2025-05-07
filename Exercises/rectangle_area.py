@@ -4,4 +4,4 @@ width = float(input("Enter the Width: "))
 
 area = width * length
 
-print(f"Area of Rectangle = {area}")
+print(f"Area of Rectangle = {area}cm^2")
